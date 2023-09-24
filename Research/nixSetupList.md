@@ -1,0 +1,8 @@
+- nvidia
+- flatpak
+- fonts
+- home-manager
+- python + java + gcc + rust
+- editors
+- git
+- note taking
